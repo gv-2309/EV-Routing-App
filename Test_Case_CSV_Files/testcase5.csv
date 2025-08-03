@@ -1,0 +1,6 @@
+ID,X,Y,Demand,NodeType
+D0,50,50,0,Depot
+C1,60,60,20,Customer
+C2,65,70,30,Customer
+DS1,55,45,0,DischargeStation
+C3,40,60,25,Customer

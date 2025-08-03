@@ -1,0 +1,10 @@
+ID,X,Y,Demand,NodeType
+0,50,50,0,Depot
+1,95,11,27,Customer
+2,70,63,21,Customer
+3,9,77,18,Customer
+4,4,63,18,Customer
+5,60,92,10,Customer
+6,5,12,18,Customer
+7,49,83,0,DischargeStation
+8,8,29,0,DischargeStation
