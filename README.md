@@ -18,15 +18,25 @@ A Streamlit web app that solves Electric Vehicle Routing Problems (EVRP) with su
 ## 📁 Folder Structure
 
 EV-Routing/
+
 ├── streamlit_app.py
+
 ├── Test_Case_CSV_Files/
+
 │ ├── testcase1.csv
+
 │ ├── testcase2.csv
+
 │ ├── testcase3.csv
+
 │ └── testcase4.csv
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── .gitignore
+
 └── venv/
 
 
@@ -58,4 +68,5 @@ Developers: Amrutha D, Vishnu V
 College: REVA University, Bangalore
 
 Contact: vishnuv2309@gmail.com
+
 
