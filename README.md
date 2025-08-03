@@ -46,7 +46,7 @@ Uploaded or default CSVs must contain the following columns:
 
 ## Hosted App:
 Visit the live app here:
-https://your-hosted-streamlit-link
+https://ev-routing-app.streamlit.app/
 
 ---
 
@@ -58,3 +58,4 @@ Developers: Amrutha D, Vishnu V
 College: REVA University, Bangalore
 
 Contact: vishnuv2309@gmail.com
+
